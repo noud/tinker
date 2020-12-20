@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.2.5|^8.0",
-        "illuminate/console": "^6.0|^7.0|^8.0",
+        "illuminate/console": "dev-develop-8.x",
         "illuminate/contracts": "dev-develop-8.x",
         "illuminate/support": "dev-develop-8.x",
         "psy/psysh": "^0.10.4",
